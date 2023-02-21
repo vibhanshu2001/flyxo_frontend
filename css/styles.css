@@ -544,6 +544,8 @@ __A:checked+._0A {
     flex-direction: row !important;
     display: flex;
     margin-top: 30px;
+    align-items: center;
+    justify-content:center;
   }
   ._footlogo>img{
     height: 16px !important;
@@ -571,7 +573,7 @@ __A:checked+._0A {
     text-align: center;
   }
   ._socialmedia{
-    justify-content: center !important;
+    align-content: center !important;
     flex-direction:row;
     margin-bottom: 20px;
   }
