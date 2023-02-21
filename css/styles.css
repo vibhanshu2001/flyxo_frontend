@@ -37,7 +37,7 @@ header {
   padding: 0 12px !important;
 }
 .nav-link:hover {
-  color: #f65c62 !important;
+  color: #5624d0 !important;
 }
 ._rn {
   color: #fff;
@@ -80,7 +80,7 @@ header {
     color: #393b41;
 }
 .list-group-item a:hover{
-    color:#f65c62;
+    color:#5624d0;
 }
 .list-group-item a b{
     font-weight: 600;
@@ -131,7 +131,7 @@ header {
 }
 ._dF a{
   text-decoration: none;
-  color: #d8353b;
+  color: #5624d0;
   font-weight: 600;
   font-size: 1.25rem;
 }
@@ -154,9 +154,9 @@ header {
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   font-size: 1.2rem !important;
-  color: #d8353b !important;
+  color: #5624d0 !important;
   background: transparent !important;
-  border-bottom: 1px solid #d8353b !important;
+  border-bottom: 1px solid #5624d0 !important;
   border-radius: 0;
   padding: 0;
 }
@@ -237,7 +237,7 @@ header {
 }
 
 .t20{
-  color: #d8353b;
+  color: #5624d0;
   font-size: 1.3rem;
   margin-bottom: 0rem;
 }
@@ -258,7 +258,7 @@ header {
   transform: scale(1.01);
 }
 ._rpah_text:hover{
-  color: #d8353b;
+  color: #5624d0;
   cursor: pointer;
 }
 ._footer{
@@ -287,7 +287,7 @@ header {
   cursor: pointer;
 }
 ._fbicon:hover{
-  color: #f65c62;
+  color: #5624d0;
 }
 
 ._footp{
@@ -298,7 +298,7 @@ header {
   flex: none;
   width: 100%;
   padding: 0 24px;
-  background-color: #d8353b;
+  background-color: #5624d0;
   box-shadow: none;
   color: #fff;
   border-radius: 0;
@@ -395,7 +395,7 @@ header {
   position: absolute;
 }
 __A:checked+._0A {
-  color: #d8353b;
+  color: #5624d0;
 }
 ._5A ._0A {
   display: flex;
@@ -432,7 +432,7 @@ __A:checked+._0A {
   position: absolute;
 }
 ._MO:checked+._LO {
-  color: #d8353b;
+  color: #5624d0;
 }
 
 ._LO {
