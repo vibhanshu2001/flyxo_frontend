@@ -468,5 +468,112 @@ __A:checked+._0A {
   ._IO{
     display: none;
   }
+  ._oV{
+    font-size: 14px;
+  }
+  ._dF a{
+    font-size: 0.9rem;
+  }
+  ._1m{
+    font-size:1.1rem;
+  }
+  ._3m p{
+    font-size: 1.1rem;
+  }
+  ._2msvg{
+    display: block;
+    margin-left:0;
+  }
+  ._in{
+    font-size:2.5rem;
+  }
+  ._insb p{
+    font-size:0.9rem !important;
+    margin-top: 10px;
+  }
+  #pills-value-tab, #pills-elevated-tab, #pills-piece-tab, #pills-convenience-tab, #popular-pills-value-tab, #popular-pills-elevated-tab, #popular-pills-piece-tab{
+    font-size: 0.9rem !important;
+  }
+  #pills-tab{
+    margin-bottom: 10px !important;
+    justify-content: flex-start !important;
+  }
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    border-bottom: 0 !important;
+    font-weight: 700;
+  }
+  ._second p{
+    font-size: 0.9rem !important;
+  }
+  ._secondimg{
+    height: 40vh;
+  }
+  ._pnocrowds{
+    font-size: 0.9rem !important;
+    margin-top:20px;
+  }
+  .image-container img{
+    height: 50vh;
+  }
+  ._fn{
+    font-size: 1.3rem !important;
+    margin-top:10px;
+  }
+  ._ttt{
+    font-size: 1.1rem !important;
+  }
+  ._image9{
+    height: 19rem !important;
+  }
+  ._para9{
+    font-size: 0.9rem !important;
+    margin-top:20px;
+  }
+  #popular-pills-tab{
+    justify-content: flex-start !important;
+
+  }
+  ._mbenef{
+    font-size: 0.9rem !important;
+    margin-top:20px;
+  }
+  ._rpah_text{
+    line-height: 26px !important;
+  }
+  ._footlogo{
+    flex-direction: row !important;
+    display: flex;
+    margin-top: 30px;
+  }
+  ._footlogo>img{
+    height: 16px !important;
+    padding: 0px !important;
+    margin-right: 15px;
+
+  }
+  ._logodiv{
+    flex-direction: column-reverse !important;
+  }
+  ._googleapplelogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  ._googleapplelogo>svg{
+    margin-top: 10px;
+  }
+  ._lastdivfooter{
+    flex-direction: column-reverse !important; ;
+  }
+  ._lastdivtext{
+    width: 100% !important;
+    text-align: center;
+  }
+  ._socialmedia{
+    justify-content: center !important;
+    flex-direction:row;
+    margin-bottom: 20px;
+  }
   
 }
